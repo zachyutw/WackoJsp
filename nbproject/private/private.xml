@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Applications/tomcat/webapps/YZ_HA_A1/WEB-INF/classes/model/Customer.java</file>
+            <file>file:/Applications/tomcat/webapps/YZ_HA_A1/WEB-INF/classes/model/LineItem.java</file>
+            <file>file:/Applications/tomcat/webapps/YZ_HA_A1/SaveSelectedProductIdController.jsp</file>
+            <file>file:/Applications/tomcat/webapps/YZ_HA_A1/DisplayPlaceOrderForm.jsp</file>
+            <file>file:/Applications/tomcat/webapps/YZ_HA_A1/SaveSelectedProductQtyController.jsp</file>
+            <file>file:/Applications/tomcat/webapps/YZ_HA_A1/CancelOrderInfo.jsp</file>
+            <file>file:/Applications/tomcat/webapps/YZ_HA_A1/DisplayCustomerInfo.jsp</file>
+            <file>file:/Applications/tomcat/webapps/YZ_HA_A1/ConfirmOrderInfo.jsp</file>
+            <file>file:/Applications/tomcat/webapps/YZ_HA_A1/WEB-INF/classes/model/OrderBean.java</file>
+            <file>file:/Applications/tomcat/webapps/YZ_HA_A1/SaveCustomerInfo.jsp</file>
+            <file>file:/Applications/tomcat/webapps/YZ_HA_A1/DisplayOrderInfo.jsp</file>
+            <file>file:/Applications/tomcat/webapps/YZ_HA_A1/DisplayProductsInfo.jsp</file>
+            <file>file:/Applications/tomcat/webapps/YZ_HA_A1/RefillOrderInfo.jsp</file>
+            <file>file:/Applications/tomcat/webapps/YZ_HA_A1/WEB-INF/classes/database/Database.java</file>
+            <file>file:/Applications/tomcat/webapps/YZ_HA_A1/WEB-INF/classes/database/WackoTables.sql</file>
+            <file>file:/Applications/tomcat/webapps/YZ_HA_A1/readme.txt</file>
+            <file>file:/Applications/tomcat/webapps/YZ_HA_A1/ConfirmCustomerInfo.jsp</file>
+            <file>file:/Applications/tomcat/webapps/YZ_HA_A1/index.jsp</file>
+            <file>file:/Applications/tomcat/webapps/YZ_HA_A1/CancelCustomerInfo.jsp</file>
+            <file>file:/Applications/tomcat/webapps/YZ_HA_A1/DisplayCustomerForm.jsp</file>
+            <file>file:/Applications/tomcat/webapps/YZ_HA_A1/DisplayOrderQtyForm.jsp</file>
+        </group>
+    </open-files>
+</project-private>
